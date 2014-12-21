@@ -1,0 +1,13 @@
+base
+devtools
+slidify
+knitr
+ggplot2
+shiny
+dplyr
+reshape2
+data.table
+lubridate
+lattice
+caret
+randomForest
